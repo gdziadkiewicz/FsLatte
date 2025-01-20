@@ -1,0 +1,10 @@
+﻿int f()
+{
+	return 2+2;
+}
+
+int main()
+{
+	printInt(f());
+	return 0;
+}

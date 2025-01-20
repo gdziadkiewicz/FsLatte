@@ -1,0 +1,7 @@
+// wrong return type
+int main() {
+        if (true)
+                return;
+	;
+        return 1;
+}

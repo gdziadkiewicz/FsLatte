@@ -1,0 +1,4 @@
+// wrong return type
+int main() {
+     return true;
+}

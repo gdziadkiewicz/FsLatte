@@ -1,0 +1,5 @@
+// Error in arguments list
+int main)( {
+        return 0;
+        return 1;
+}

@@ -1,0 +1,2 @@
+// Function without return type, no main
+foo() {}

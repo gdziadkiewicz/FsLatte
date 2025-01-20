@@ -1,0 +1,5 @@
+// not all code paths return value
+  int main() { 
+    if (false)
+       return 0; 
+}
